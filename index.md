@@ -30,7 +30,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - The top left section of the page indicates whether or not a subject has been annotated. An empty box means no response has been recorded, otherwise, there will be a check in the box. When you use any of the submit buttons, a dialogue box will also appear in this section to show you that you have just submitted a response.
   - The middle of the page is where all the images are displayed. You can scroll with your cursor inside this section to load more images. The total number of images is shown in the information section. 
 	  - For each image, there is a button in the top left corner when you hover over the image. You can press this button to open a new tab in your browser with an enlarged version of the image.
-	  - You can click on the image itself to mark or deselect it. This will modify the `ratio of pictures` and `Percentage`.
+	  - You can click on the image itself to mark or unmark it. This will modify the `ratio of pictures` and `Percentage`.
 
 # Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
@@ -44,5 +44,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMDYyODddfQ==
+eyJoaXN0b3J5IjpbMTEwODA0ODI0XX0=
 -->
