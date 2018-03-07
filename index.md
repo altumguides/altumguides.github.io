@@ -45,10 +45,10 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - The main identity is in the picture but older or younger. *Don't mark* 
 	  - The main identity has heavy make up or pretending to be someone else. (?)
 	  - The main identity that underwent plastic surgery or gender change. (?)
-	  - The main identity that always wears face accessories.
+	  - The main identity that always wears face accessories. (?)
 	  - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE3MzQzMjNdfQ==
+eyJoaXN0b3J5IjpbMjgzMzM2Mzc5XX0=
 -->
