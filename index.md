@@ -30,12 +30,13 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - The top left section of the page indicates whether or not a subject has been annotated. An empty box means no response has been recorded, otherwise, there will be a check in the box. When you use any of the submit buttons, a dialogue box will also appear in this section to show you that you have just submitted a response.
   - The middle of the page is where all the images are displayed. You can scroll with your cursor inside this section to load more images. The total number of images is shown in the information section. 
 	  - For each image, there is a button in the top left corner when you hover over the image. You can press this button to open a new tab in your browser with an enlarged version of the image.
-	  - You can click on the image itself to select or deselect it. This will modify the `ratio of pictures` and `Percentage`.
+	  - You can click on the image itself to mark or deselect it. This will modify the `ratio of pictures` and `Percentage`.
 
 # Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
-	  - If more than 90% of the images shown for a celebrity subject 
-  - You can select an image that you think does not representative the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that may satisfy this condition include:
+	  - If more than 90% of the images shown for a celebrity subject belongs to a single face identity, then click the green `Good` button.
+	  - Otherwise, click the red `Bad` button.
+  - You can select an image that you think is not representative the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that may satisfy this condition include:
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
   - Generally, if the subject is in the picture and is in the focus, then the image is representative so you should not select it.
@@ -43,5 +44,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYzNzc4NjhdfQ==
+eyJoaXN0b3J5IjpbMzAzMDYyODddfQ==
 -->
