@@ -37,7 +37,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - If more than 90% of the images shown for a celebrity subject belongs to a single face identity, then click the green `Good` button.
 	  - Otherwise, click the red `Bad` button.
   - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
-	  - Images with more than 3 people in it.
+	  - Images with more than 2 people in it.
 	  - Images with no faces to identify. 
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, when the subject is in the image and in focus, you don't want to mark it.
@@ -50,5 +50,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMzM2Mzc5XX0=
+eyJoaXN0b3J5IjpbLTMyNzgwNzE3NF19
 -->
