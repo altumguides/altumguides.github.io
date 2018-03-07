@@ -39,7 +39,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
-	  - Images with very poor quality or the subject is too fa
+	  - Images with very poor quality or the subject is too far away
   - Generally speaking, when the subject is in the image and in focus, you don't want to mark it.
   - Special cases:
 	  - The main identity is in the picture but older or younger. *Don't mark* 
@@ -50,5 +50,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE1ODcxMjldfQ==
+eyJoaXN0b3J5IjpbLTg0NTEyMzA5M119
 -->
