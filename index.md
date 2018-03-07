@@ -42,9 +42,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
 # Things to keep in mind
-  - Remember your s
+  - Remember 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NDYxMzcyXX0=
+eyJoaXN0b3J5IjpbLTE5NDkyMjM1NTBdfQ==
 -->
