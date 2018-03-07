@@ -40,9 +40,11 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with more than 2 people in it.
 	  - Images with no faces to identify. 
 	  - Images with very poor quality or the subject is too far away.
-  - Generally speaking, when you can recognize the main identity in the image you don't want to mark it.
+  - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
+# Things to keep in mind
+  - Remember your subject 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2OTY2OTddfQ==
+eyJoaXN0b3J5IjpbMTA5MzQzMzUxM119
 -->
