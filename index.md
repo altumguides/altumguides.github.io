@@ -3,6 +3,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
  1. [Interface](#Interface)
  2. [Objective](#Instruction)
+ 3. [Things to keep in mind](#Note)
 
 
 ### Requirements
@@ -42,12 +43,12 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
 
-# Things to keep in mind
+# Things to keep in mind<a name="Note"></a>
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
   - Don't hesitate to reach out to me when you have any concerns.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMzMwMTQyXX0=
+eyJoaXN0b3J5IjpbLTE0MzM2MTYwMzRdfQ==
 -->
