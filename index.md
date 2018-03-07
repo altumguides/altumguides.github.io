@@ -41,6 +41,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with no faces to identify. 
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
+
 # Things to keep in mind
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
@@ -48,5 +49,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDI0MTE2OF19
+eyJoaXN0b3J5IjpbODkxMzMwMTQyXX0=
 -->
