@@ -42,9 +42,11 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
 # Things to keep in mind
-  - Remember the index number 
+  - Remember the index number so that you can resume your progress using the navigation bar.
+  - Make sure to record your time in the time sheet every time you start working.
+  - Don't
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjM3NTM3Nl19
+eyJoaXN0b3J5IjpbOTUyMDc5NTY2XX0=
 -->
