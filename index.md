@@ -38,9 +38,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
   - Generally, if the subject is in the picture and is in the focus, then the image is representative. 
-  - When there is a mix of people in the imag
+  - When there is a mix of peop
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NzM3NDA2XX0=
+eyJoaXN0b3J5IjpbLTEyNzg5OTA5MzNdfQ==
 -->
