@@ -37,9 +37,10 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - You can select an image that you think is not the identity that is representative of the subject. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that may not satisfy this condition include:
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
-  - Generally, if the subject is in the picture and is the focus, then the image is representative. 
+  - Generally, if the subject is in the picture and is in the focus, then the image is representative. 
+  - Example of when
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzEyNTMxXX0=
+eyJoaXN0b3J5IjpbMTgyNzk2NDc0Ml19
 -->
