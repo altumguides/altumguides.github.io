@@ -35,9 +35,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
 # Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
   - You can select an image that you think is not the identity that is representative of the subject. Doing this will modify the `Percentage` information. You can use this information to help you in this task. 
-		  > s
+		  > sss
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTE5MDc3OV19
+eyJoaXN0b3J5IjpbLTQxODE2NjY4M119
 -->
