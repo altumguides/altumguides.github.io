@@ -39,10 +39,10 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
-  - Generally, if the subject is in the picture and is in the focus, then the image is representative so you should not select it.
-> After viewing all images, if the percentage number is lower than 90%, then respond with Bad.
+  - Generally, if the subject is in the picture and is in the focus, then the image is representative so you should not mark it.
+> Note: If before you have viewed all the.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTgwMzYzOF19
+eyJoaXN0b3J5IjpbOTgzNzY0NDE0XX0=
 -->
