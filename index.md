@@ -43,12 +43,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - Generally speaking, when the subject is in the image and in focus, you don't want to mark it.
   - Special cases:
 	  - The main identity is in the picture but older or younger. *Don't mark* 
-	  - The main identity has heavy make up or pretending to be someone else. (?)
-	  - The main identity that underwent plastic surgery or gender change. (?)
-	  - The main identity that always wears face accessories. (?)
-	  - 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzgwNzE3NF19
+eyJoaXN0b3J5IjpbLTcyNDQyOTg5XX0=
 -->
