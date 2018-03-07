@@ -38,9 +38,8 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
   - Generally, if the subject is in the picture and is in the focus, then the image is representative. 
-  -
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMzMDk1NDldfQ==
+eyJoaXN0b3J5IjpbLTc2ODU4NDc3MF19
 -->
