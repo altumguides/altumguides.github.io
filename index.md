@@ -39,10 +39,11 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
-  - Generally, if the subject is in the picture and is in the focus, then the image is representative so you should not mark it.
- > Note: carefully examine the pictures
+  - Times when you don't want to mark an image:
+	  - The main identity is in the picture and in focus.
+	  - The younger or older
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTg2ODk3NV19
+eyJoaXN0b3J5IjpbLTIwNzQ3NzcxNTRdfQ==
 -->
