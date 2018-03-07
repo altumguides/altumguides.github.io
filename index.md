@@ -34,12 +34,12 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 # Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
-  - You can select an image that you think is not the identity that is representative of the subject. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that may not satisfy this condition include:
+  - You can select an image that you think does not representative the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that may satisfy this condition include:
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
   - Generally, if the subject is in the picture and is in the focus, then the image is representative. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODU4NDc3MF19
+eyJoaXN0b3J5IjpbMjAyOTExMDc5OF19
 -->
