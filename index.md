@@ -35,10 +35,10 @@ Thank you for your interest in helping our research. The guidelines listed here 
 # Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
   - You can select an image that you think is not the identity that is representative of the subject. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that are not representative can include:
-	  - Images with no faces, .e. objects, landscapes, paintings, and animals.
+	  - Images with no faces, i.e. objects, landscapes, paintings, and animals.
 	  - Images that contains a person that is not representative of the subject. I.e.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjIzNzc0NV19
+eyJoaXN0b3J5IjpbLTE2NDQzMTg4MDRdfQ==
 -->
