@@ -5,12 +5,12 @@ Thank you for your interest in helping our research. The guidelines listed here 
  2. [Objective](#Instruction)
 
 
-## Requirements
+### Requirements
 
   - A stable internet connection.
   - A laptop or desktop computer with an up-to-date browser of your choice. 
 
-## To begin
+### To begin
 
   - **(to be determined)** Open a browser and go to `website_url.com`. This is the website that you will use to do the annotations.
   - You will be given parts that you are to annotate. Use the navigation panel at the top right of the page to go to the parts that you are responsible for.
@@ -39,5 +39,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM3MjkzNzddfQ==
+eyJoaXN0b3J5IjpbLTIzNjMxNjM3XX0=
 -->
