@@ -32,12 +32,12 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - For each image, there is a button in the top left corner when you hover over the image. You can press this button to open a new tab in your browser with an enlarged version of the image.
 	  - You can click on the image itself to select or deselect it. This will modify the `ratio of pictures` and `Percentage`.
 
-# Instruction
+# Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE identity**. 
   - You can select an image that you think is not the identity that is representative of the subject. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that are not representative can include:
 	  - case 1,2,3...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDQwNTE0NF19
+eyJoaXN0b3J5IjpbMTM2NTU3MTkzMF19
 -->
