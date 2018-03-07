@@ -44,9 +44,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
 # Things to keep in mind
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
-  - Don't hesitate to reach out to 
+  - Don't hesitate to reach out to me when yo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTE1Njc5OF19
+eyJoaXN0b3J5IjpbMjA3OTAzMTE3OF19
 -->
