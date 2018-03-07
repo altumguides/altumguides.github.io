@@ -36,7 +36,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
 	  - If more than 90% of the images shown for a celebrity subject belongs to a single face identity, then click the green `Good` button.
 	  - Otherwise, click the red `Bad` button.
-  - You can select an image that you think is not representative the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in this task. Images that may satisfy this condition include:
+  - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
   - Generally, if the subject is in the picture and is in the focus, then the image is representative so you should not select it.
@@ -44,5 +44,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODA0ODI0XX0=
+eyJoaXN0b3J5IjpbLTY1NTgwMzYzOF19
 -->
