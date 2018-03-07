@@ -40,12 +40,13 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
   - Generally speaking, when the subject is in the image and in focus, you don't want to mark it.
-  - Some explanation for special cases:
+  - Special cases:
 	  - The main identity is in the picture but older or younger. *Don't mark* 
-	  - The main identity with heavy make up. (?)
-	  - The 
+	  - The main identity with heavy make up or pretending to be someone else. (?)
+	  - The main identity that underwent plastic surgery or gender change. (?)
+	  - The main identity that always have 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDE4NTI0Ml19
+eyJoaXN0b3J5IjpbLTk1NTM0ODc5NF19
 -->
