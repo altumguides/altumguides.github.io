@@ -40,9 +40,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with more than 3 people in it.
 	  - Images with no faces to identify. 
   - Generally, if the subject is in the picture and is in the focus, then the image is representative so you should not mark it.
-> Note: If before you have viewed all the.
+> Note: If before you have viewed all the images.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNzY0NDE0XX0=
+eyJoaXN0b3J5IjpbLTE0MTE2MTYxMThdfQ==
 -->
