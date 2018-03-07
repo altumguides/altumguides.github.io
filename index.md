@@ -1,5 +1,4 @@
-﻿# Introduction
-
+# Introduction
 Thank you for your interest in helping our research. The guidelines listed here are designed to help enhance your experience as well as improve the quality and consistency of your results. The goal of your task is to determine whether or not a celebrity has sufficient distinct images.[link text](#Interface)
 
 
@@ -37,5 +36,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzEyNDQxNF19
+eyJoaXN0b3J5IjpbMjA1MTYzOTExOV19
 -->
