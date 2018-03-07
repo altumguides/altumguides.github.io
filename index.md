@@ -1,6 +1,6 @@
 ﻿# Introduction
 
-Thank you for your interest in helping our research. The guidelines listed here are designed to help enhance your experience as well as improve the quality and consistency of your results. The goal of your task is to determine whether or not a celebrity has sufficient distinct images.
+Thank you for your interest in helping our research. The guidelines listed here are designed to help enhance your experience as well as improve the quality and consistency of your results. The goal of your task is to determine whether or not a celebrity has sufficient distinct images.[link text](#I
 
 
 ## Requirements
@@ -13,7 +13,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
   - **(to be determined)** Open a browser and go to `website_url.com`. This is the website that you will use to do the annotations.
   - You will be given parts that you are to annotate. Use the navigation panel at the top right of the page to go to the parts that you are responsible for.
  
-# Interface
+# <a name="Interface"></a>
   The UI consists of several parts that each have their own uses. I will break them down below and explain what each part is for.
   - The top right section of the page contains a navigation panel. You can type in an index number and press the navigate button to tell the page to display the images of the subject at that index number. 
   - The top middle section of the page contains information about the subject that the images are displayed of. Use this information to help decide whether or not a subject has sufficient distinct images.
@@ -37,5 +37,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4ODIyMjk4XX0=
+eyJoaXN0b3J5IjpbLTE3MDg5NTc1NTZdfQ==
 -->
