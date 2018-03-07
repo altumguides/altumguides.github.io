@@ -41,9 +41,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
 	  - Images with no faces to identify. 
   - Times when you don't want to mark an image:
 	  - The main identity is in the picture and in focus.
-	  - The younger or older
+	  - The main i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ3NzcxNTRdfQ==
+eyJoaXN0b3J5IjpbLTE4NDg4MDE3NzhdfQ==
 -->
