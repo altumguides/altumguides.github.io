@@ -5,6 +5,9 @@ Thank you for your interest in helping our research. The guidelines listed here 
  2. [Objective](#Instruction)
  3. [Things to keep in mind](#Note)
 
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
 
 ### Requirements
 
@@ -52,11 +55,8 @@ The UI consists of several parts that each have their own uses. I will break the
   - Make sure to record your time in the time sheet every time you start working.
   - Don't hesitate to reach out to me when you have any concerns.
 
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3Njc0NTczLC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbMTM0Nzc1MzAwMywtMTQzMzYxNjAzNF19
 -->
