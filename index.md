@@ -25,6 +25,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 ![alt text](img/Interface.png)
 
 The UI consists of several parts that each have their own uses. I will break them down below and explain what each part is for.
+  1. The top left section of the page indicates whether or not a subject has been annotated. An empty box means no response has been recorded, otherwise, there will be a check in the box. When you submit, a dialogue box will appear in this section to show you that you have just submitted a response.
   - The top right section of the page contains a navigation panel. You can type in an index number and press the navigate button to tell the page to display the images of the subject at that index number. 
   - The top middle section of the page contains information about the subject that the images are displayed of. Use this information to help decide whether or not a subject has sufficient distinct images.
 	  - `Celebrity Index`: The index of the subject.
@@ -35,7 +36,7 @@ The UI consists of several parts that each have their own uses. I will break the
   - The bottom section of the page contains four buttons. 
 	  - At the far left and right corners are buttons that will respectively bring up the subject at one index lower or higher than the current index shown. 
 	  - In the middle are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. 
-  - The top left section of the page indicates whether or not a subject has been annotated. An empty box means no response has been recorded, otherwise, there will be a check in the box. When you use any of the submit buttons, a dialogue box will also appear in this section to show you that you have just submitted a response.
+
   - The middle of the page is where all the images are displayed. You can scroll with your cursor inside this section to load more images. The total number of images is shown in the information section. 
 	  - For each image, there is a button in the top left corner when you hover over the image. You can press this button to open a new tab in your browser with an enlarged version of the image.
 	  - You can click on the image itself to mark or unmark it. This will modify the `ratio of pictures` and `Percentage`.
@@ -58,6 +59,6 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkzNzM5NTcsLTE0MzM2MTYwMzRdfQ
+eyJoaXN0b3J5IjpbLTE3NTY2Njk2NjQsLTE0MzM2MTYwMzRdfQ
 ==
 -->
