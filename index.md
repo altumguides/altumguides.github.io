@@ -13,7 +13,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 ### To begin
 
-  - **(to be determined)** Open a browser and go to `website_url.com`. This is the website that you will use to do the annotations.
+  - Open a browser and go to `annotate.altumview.com`. This is the website that you will use to do the annotations.
   - You will be given parts that you are to annotate. Use the navigation panel at the top right of the page to go to the parts that you are responsible for.
  
 # <a name="Interface"></a>Interface
@@ -50,5 +50,5 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwMzIxNDYxLC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbLTQwNjg1MjQyMiwtMTQzMzYxNjAzNF19
 -->
