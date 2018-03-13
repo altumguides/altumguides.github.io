@@ -19,7 +19,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 # <a name="Interface"></a>Interface
 
 
-![alt text](img/interface.png)
+![alt text](img/Interface.png)
 
 The UI consists of several parts that each have their own uses. I will break them down below and explain what each part is for.
   - The top right section of the page contains a navigation panel. You can type in an index number and press the navigate button to tell the page to display the images of the subject at that index number. 
@@ -54,5 +54,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTA2NDg4NCwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbMTIyNDEwMjI1MiwtMTQzMzYxNjAzNF19
 -->
