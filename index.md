@@ -52,7 +52,11 @@ The UI consists of several parts that each have their own uses. I will break the
   - Make sure to record your time in the time sheet every time you start working.
   - Don't hesitate to reach out to me when you have any concerns.
 
+<style type="text/css">
+    ol { list-style-type: upper-alpha; }
+</style>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTk3MDg3OCwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbOTQ3Njc0NTczLC0xNDMzNjE2MDM0XX0=
 -->
