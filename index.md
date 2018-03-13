@@ -25,14 +25,15 @@ Thank you for your interest in helping our research. The guidelines listed here 
 ![alt text](img/Interface.png)
 
 The UI consists of several parts that each have their own uses. I will break them down below and explain what each part is for.
-  1. The top left section of the page indicates whether or not a subject has been annotated. Nothing will be here when the current subject has no response. When you submit, a dialogue box will appear in this section to show you what you have submitted.
-  - The top right section of the page contains a navigation panel. You can type in an index number and press the navigate button to tell the page to display the images of the subject at that index number. 
-  - The top middle section of the page contains information about the subject that the images are displayed of. Use this information to help decide whether or not a subject has sufficient distinct images.
+  1. The top left section of the page indicates whether or not a subject has been annotated. When this is empty, it means that no response has been recorded for the current subject. When you submit, a dialogue box will appear in this section to show you what you have submitted.
+
+  2. The top middle section of the page contains information about the subject that the images are displayed of. Use this information to help decide whether or not a subject has sufficient distinct images.
 	  - `Celebrity Index`: The index of the subject.
 	  - `Celebrity name`: Name of the subject.
 	  - `Number of pictures`: The total number of pictures that this subject has.
 	  - `Ratio of pictures`: Selected images / total number of images.
 	  - `Percentage`: The percentage of images that are not selected. Ratio of pictures multiplied by 100.
+  - The top right section of the page contains a navigation panel. You can type in an index number and press the navigate button to tell the page to display the images of the subject at that index number. 
   - The bottom section of the page contains four buttons. 
 	  - At the far left and right corners are buttons that will respectively bring up the subject at one index lower or higher than the current index shown. 
 	  - In the middle are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. 
@@ -59,5 +60,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTc0MTI1LC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbMTExMTg5NTM0MiwtMTQzMzYxNjAzNF19
 -->
