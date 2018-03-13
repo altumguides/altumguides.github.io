@@ -25,7 +25,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 ![alt text](img/Interface.png)
 
 The UI consists of several parts that each have their own uses. I will break them down below and explain what each part is for.
-  1. The top right section of the page contains a navigation panel. You can type in an index number and press the navigate button to tell the page to display the images of the subject at that index number. 
+  - The top right section of the page contains a navigation panel. You can type in an index number and press the navigate button to tell the page to display the images of the subject at that index number. 
   - The top middle section of the page contains information about the subject that the images are displayed of. Use this information to help decide whether or not a subject has sufficient distinct images.
 	  - `Celebrity Index`: The index of the subject.
 	  - `Celebrity name`: Name of the subject.
@@ -58,5 +58,6 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Nzc1MzAwMywtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbLTExODkzNzM5NTcsLTE0MzM2MTYwMzRdfQ
+==
 -->
