@@ -5,10 +5,6 @@ Thank you for your interest in helping our research. The guidelines listed here 
  2. [Objective](#Instruction)
  3. [Things to keep in mind](#Note)
 
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
-
 ### Requirements
 
   - A stable internet connection.
@@ -59,6 +55,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc3NDY2MDUsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbMTkwNzgzMDg4NiwtMTQzMzYxNjAzNF19
 -->
