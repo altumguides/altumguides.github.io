@@ -41,7 +41,6 @@ The UI consists of several parts that each have their own uses. I will break the
   6. The leftmost and rightmost buttons in the bottom of the page will respectively bring up the subject at one index lower or higher than the current index shown. 
  7. Residing in the bottom middle of the page are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. 
 
-
 # Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
 	  - If more than 90% of the images shown for a celebrity subject belongs to a single face identity, then click the green `Good` button.
@@ -60,6 +59,6 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ1ODY4NDMsLTE0MzM2MTYwMzRdfQ
+eyJoaXN0b3J5IjpbLTE0Nzc3NDY2MDUsLTE0MzM2MTYwMzRdfQ
 ==
 -->
