@@ -33,7 +33,7 @@ The UI consists of several parts that each have their own uses. I will break the
 
   4. The middle of the page is where all the images are displayed. You can scroll with your cursor inside this section to load more images. The total number of images is shown in the information section. 
  5. For each image, there is a button in the top left corner when you hover over the image. You can press this button to open a new tab in your browser with an enlarged version of the image.
-	  - You can click on the image itself to mark or unmark it. This will modify the `ratio of pictures` and `Percentage`  and make the image slightly opaque.
+	  - You can click on the image itself to mark or unmark it. This will modify the opacity of the image, `ratio of pictures` and `Percentage`.
   6. The leftmost and rightmost buttons in the bottom of the page will respectively bring up the subject at one index lower or higher than the current index shown. 
  7. Residing in the bottom middle of the page are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. 
 
@@ -63,6 +63,6 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM0NzU0MjMsLTE0MzM2MTYwMzRdfQ
+eyJoaXN0b3J5IjpbLTE4MDYyMzI2NDcsLTE0MzM2MTYwMzRdfQ
 ==
 -->
