@@ -37,7 +37,7 @@ The UI consists of several parts that each have their own uses. I will break the
   6. The leftmost and rightmost buttons in the bottom of the page will respectively bring up the subject at one index lower or higher than the current index shown. 
  7. Residing in the bottom middle of the page are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. 
 
-# Objective<a name="Instruction"></a>
+# <a name="Instruction"></a>Objective
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
 	  - If more than 90% of the images shown for a celebrity subject belongs to a single face identity, then click the green `Good` button.
 	  - Otherwise, click the red `Bad` button.
@@ -47,7 +47,7 @@ The UI consists of several parts that each have their own uses. I will break the
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
 
-# Things to keep in mind<a name="Note"></a>
+# <a name="Note"></a>Things to keep in mind
   - A scenario that happens frequently is that the subject will fail the condition before needing to see all the images. 
 	  - Going through each image carefully allows you to save time on a subject when this scenario happens. Skimming will have the opposite effect and a worse result as often times you will feel the need to look through the same set of images again and you might still miss some images that are not suppose to be in the set.
 	  - If you cannot determine the main identity of the subject from the first 10~20 pictures, then it is likely that the subject will fail before needing to verify every picture. What you can do in this case is skim through some more images to see if you still cannot identify the main identity. If so, then this subject has failed the condition. 
@@ -63,6 +63,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYyMzI2NDcsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbMTM4Mzg1NDA1MSwtMTQzMzYxNjAzNF19
 -->
