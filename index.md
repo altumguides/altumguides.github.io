@@ -56,11 +56,12 @@ The UI consists of several parts that each have their own uses. I will break the
   - Always pay attention to the `Percentage` information if you are marking the images as there is no notification when a subject has already failed the condition based on the markings.
   - The website saves the progress for you provided that you are not using the browser in incognito mode or you keep your browsing data. You can close/refresh the web page to still arrive at where you left off.
   - Otherwise, Remember the index number so that you can resume your progress using the navigation bar.
-  - Always submit a response before going to the next subject. Don't skip subjects.
+  - Always submit a response before going to the next subject. This will prevent missing responses.
   - Make sure to record your time in the time sheet every time you start working.
-  - Don't hesitate to reach out to me when you have any concerns.
+  - It is better to contact me as soon as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MzI5OTYyLC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbLTEyNjE5MjI0ODcsLTE0MzM2MTYwMzRdfQ
+==
 -->
