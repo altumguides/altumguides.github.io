@@ -50,7 +50,7 @@ The UI consists of several parts that each have their own uses. I will break the
 # Things to keep in mind<a name="Note"></a>
   - A scenario that happens often is that the subject has failed the condition before all the images are shown. 
 	  - Going through each image carefully allows you to save time on a subject when this scenario happens. 
-	  - If you can not determine the main identity of the subject from the first 10~20 pictures. Then you can start skimming to see the rest.
+	  - If you can not determine the main identity of the subject from the first 10~20 pictures. Then you can start skimming to see the rest
   - Always pay attention to the `Percentage` information if you are marking the images. 
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
@@ -58,5 +58,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDcyODc5NiwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbMTExNTc1OTA5OCwtMTQzMzYxNjAzNF19
 -->
