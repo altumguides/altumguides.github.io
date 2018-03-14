@@ -48,8 +48,9 @@ The UI consists of several parts that each have their own uses. I will break the
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
 
 # Things to keep in mind<a name="Note"></a>
-  - Carefully look at each image as they come up instead of going through them quickly. 
-  - A scenario that happens often is that the subject has failed the condition before all the images are shown. Going through each image carefully allows you to save time on a subject when this scenario happens. 
+  - A scenario that happens often is that the subject has failed the condition before all the images are shown. 
+	  - Going through each image carefully allows you to save time on a subject when this scenario happens. 
+	  - If you can not determine the main identity of the subject from the first 10 pictures, 
   - Always pay attention to the `Percentage` information if you are marking the images. 
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
@@ -57,6 +58,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ1NjQ0MDQsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbLTM1NzU4NTI4MiwtMTQzMzYxNjAzNF19
 -->
