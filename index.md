@@ -50,12 +50,12 @@ The UI consists of several parts that each have their own uses. I will break the
 # Things to keep in mind<a name="Note"></a>
   - Carefully look at each image as they come up instead of going through them quickly. 
   - A scenario that happens often is that the subject has failed the condition before all the images are shown. Going through each image carefully allows you to save time on a subject when this scenario happens. 
-  - 
+  - Always pay attention to the `` information
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
   - Don't hesitate to reach out to me when you have any concerns.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyNzA1MTc5LC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbMTM2ODkxNTU5MCwtMTQzMzYxNjAzNF19
 -->
