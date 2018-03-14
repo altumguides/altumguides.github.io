@@ -35,7 +35,7 @@ The UI consists of several parts that each have their own uses. I will break the
  5. For each image, there is a button in the top left corner when you hover over the image. You can press this button to open a new tab in your browser with an enlarged version of the image.
 	  - You can click on the image itself to mark or unmark it. This will modify the `ratio of pictures` and `Percentage`  and make the image slightly opaque.
   6. The leftmost and rightmost buttons in the bottom of the page will respectively bring up the subject at one index lower or higher than the current index shown. 
- 7. Residing in the bottom middle of the page are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. We only care about which but
+ 7. Residing in the bottom middle of the page are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. We only care about which button you pre
 
 # Objective<a name="Instruction"></a>
   - For each subject, you are to determine whether or not **90% or more of the total number of images belong to a SINGLE face identity**. 
@@ -63,6 +63,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEwOTIzMjIsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbLTgyNjEyODg0MSwtMTQzMzYxNjAzNF19
 -->
