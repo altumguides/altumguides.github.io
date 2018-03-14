@@ -48,12 +48,12 @@ The UI consists of several parts that each have their own uses. I will break the
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
 
 # Things to keep in mind<a name="Note"></a>
-  - Carefully look at each image as they come up instead of going through them quickly. Doing this often results in going back to look over the images again whereas the subject may have failed at the object in some point before all the images had to be shown.
+  - Carefully look at each image as they come up instead of going through them quickly. Doing this often results in going back to look over the images again whereas the subject may have failed at the objective in some point before all the images had to be shown.
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
   - Don't hesitate to reach out to me when you have any concerns.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIwNjk1MSwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbMTY3MjQ2MjAyNywtMTQzMzYxNjAzNF19
 -->
