@@ -48,9 +48,9 @@ The UI consists of several parts that each have their own uses. I will break the
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
 
 # Things to keep in mind<a name="Note"></a>
-  - A scenario that happens often is that the subject will fail the condition before all the images are shown, so you  need to go through all the images. 
+  - A scenario that happens often is that the subject will fail the condition before all the images are shown, so you DO NOT need to go through all the images. 
 	  - Going through each image carefully allows you to save time on a subject when this scenario happens. 
-	  - If you can not determine the main identity of the subject from the first 10~20 pictures, then this scenario might occur as well. So you can skim some more pictures until it is obvious that the subject has failed. 
+	  - If you can not determine the main identity of the subject from the first 10~20 pictures, then it is likely. some more pictures until it is obvious that the subject has failed. 
   - Always pay attention to the `Percentage` information if you are marking the images. 
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
@@ -58,6 +58,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc4MzEwODgsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbNDEwMDQ3Nzc5LC0xNDMzNjE2MDM0XX0=
 -->
