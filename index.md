@@ -58,9 +58,10 @@ The UI consists of several parts that each have their own uses. I will break the
   - Otherwise, Remember the index number so that you can resume your progress using the navigation bar.
   - Always submit a response before going to the next subject. This will prevent missing responses.
   - Make sure to record your time in the time sheet every time you start working.
-  - It is better to contact me as soon as possible if you have a
+  - It is better to contact me as soon as possible if you have any concerns.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MzQ0MzI1LC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbLTE0NzM3NzAzMzcsLTE0MzM2MTYwMzRdfQ
+==
 -->
