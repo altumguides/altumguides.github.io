@@ -54,12 +54,13 @@ The UI consists of several parts that each have their own uses. I will break the
   - You don't have to always mark pictures if it is easier to count and approximate the `Percentage` yourself. If you do this, make sure you are certain that the subject is a pass or a fail. 
   - You can submit multiple times. Only the last submit is recorded.
   - Always pay attention to the `Percentage` information if you are marking the images as there is no notification when a subject has already failed the condition based on the markings.
-  - The website saves the progress for you provided that you are not using the website in incognito mode or you keep your browsing data. 
+  - The website saves the progress for you provided that you are not using the website in incognito mode or you keep your browsing data. You can close/refresh the web page to still arrive at where you left off.
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
   - Don't hesitate to reach out to me when you have any concerns.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMjQwOTAzLC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbLTE3NzI1MzIzMTMsLTE0MzM2MTYwMzRdfQ
+==
 -->
