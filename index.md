@@ -51,7 +51,7 @@ The UI consists of several parts that each have their own uses. I will break the
   - A scenario that happens frequently is that the subject will fail the condition before needing to see all the images. 
 	  - Going through each image carefully allows you to save time on a subject when this scenario happens. Skimming will have the opposite effect and a worse result as often times you will feel the need to look through the same set of images again and you might still miss some images that are not suppose to be in the set.
 	  - If you can not determine the main identity of the subject from the first 10~20 pictures, then it is likely that the subject will fail before needing to verify every picture. What you can do in this case is skim through some more images to see if you still cannot identify the main identity. If so, then this subject has failed the condition. 
-  - You don't always have to mark pictures if you can c
+  - You don't always have to mark pictures if i
   - Always pay attention to the `Percentage` information if you are marking the images. 
   - Remember the index number so that you can resume your progress using the navigation bar.
   - Make sure to record your time in the time sheet every time you start working.
@@ -59,6 +59,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc2ODA3NzUsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbMTk2Nzk4NjA1MCwtMTQzMzYxNjAzNF19
 -->
