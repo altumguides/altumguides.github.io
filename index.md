@@ -54,7 +54,7 @@ The UI consists of several parts that each have their own uses. I will break the
   - Don't rely on `Celebrity name` to identify the main identity of the set. 
   - You don't have to always mark pictures if it is easier to count and approximate the `Percentage` yourself. If you do this, make sure you are certain that the subject is a pass or a fail. 
   - Always pay attention to the `Percentage` information if you are marking the images as there is no notification when a subject has already failed the condition based on the markings.
-  - You can submit multiple times. Only the last submit is recorded.
+  - Only the response from submit buttons are recorded. You can submit multiple times. Only the last submit is recorded.
   - The website saves the progress for you provided that you are not using the browser in incognito mode or you keep your browsing data. You can close/refresh the web page to still arrive at where you left off.
   - Otherwise, Remember the index number so that you can resume progress using the navigation bar.
   - Always submit a response before going to the next subject. This will prevent missing responses.
@@ -63,5 +63,6 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MzUyODkyLC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbLTIxMDM0NzU0MjMsLTE0MzM2MTYwMzRdfQ
+==
 -->
