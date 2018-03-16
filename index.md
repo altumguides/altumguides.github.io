@@ -40,7 +40,7 @@ The UI consists of several parts that each have their own uses. I will break the
 # <a name="Instruction"></a>Objective
   - For each subject, you are to determine whether the subject falls in one of the following groups: 
 	  - If **more than 90% of the images** shown for a celebrity subject belongs to a single face identity, then click the green `Very Good` button.
-	  - if **less than 90% of the images and more than 80% of the images** shown for a celebrity subject belongs to a single face identity, then click the yellow `Good` button.
+	  - If **more than 80% and less than 90% of the images** shown for a celebrity subject belongs to a single face identity, then click the yellow `Good` button.
 	  - Otherwise, click the red `Bad` button.
   - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
 	  - Image with no faces to identify. 
@@ -67,5 +67,6 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNjc2NTY1LC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbLTE1OTQyNjY3NDcsLTE0MzM2MTYwMzRdfQ
+==
 -->
