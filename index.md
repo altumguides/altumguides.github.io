@@ -12,8 +12,8 @@ Thank you for your interest in helping our research. The guidelines listed here 
 
 ### To begin
 
-  - Open a browser and go to [`annotate.altumview.com`](annotate.altumview.com "Remember this URL"). This is the website that you will use to do the annotations.
-  - You will be given parts that you are to annotate. Use the navigation panel at the top right of the [`annotate.altumview.com`](annotate.altumview.com "Bookmark it maybe") page to go to the parts that you are responsible for.
+  - Open a browser and go to [`annotate.altumview.com`](http://annotate.altumview.com/ "Remember this URL"). This is the website that you will use to do the annotations.
+  - You will be given parts that you are to annotate. Use the navigation panel at the top right of the [`annotate.altumview.com`](http://annotate.altumview.com/ "Bookmark it maybe") page to go to the parts that you are responsible for.
  
 # <a name="Interface"></a>Interface
 
@@ -63,5 +63,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc4ODMwMSwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbLTM3MTk0OTk5NywtMTQzMzYxNjAzNF19
 -->
