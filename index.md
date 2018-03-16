@@ -46,7 +46,7 @@ The UI consists of several parts that each have their own uses. I will break the
 	  - Image with no faces to identify. 
 	  - Image with very poor quality or the subject is too far away.
 	  - Image with a face that does not look like the main identity.
-  - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it. Some examples include:
+  - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it. For example:
 	  - The subject has makeup on, but you can recognize her because of her lips and nose features.
 	  - The subject is wearing sunglasses, but you can recognize his chin and smile. 
 	  - A drawing or animated image that is realistically similar to the main identity. 
@@ -67,6 +67,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQyNjY3NDcsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbMzY0Nzk3Mjc1LC0xNDMzNjE2MDM0XX0=
 -->
