@@ -13,7 +13,7 @@ Thank you for your interest in helping our research. The guidelines listed here 
 ### To begin
 
   - Open a browser and go to `annotate.altumview.com`. This is the website that you will use to do the annotations.
-  - You will be given parts that you are to annotate. Use the navigation panel at the top right of the page to go to the parts that you are responsible for.
+  - You will be given parts that you are to annotate. Use the navigation panel at the top right of the `annotate.altumview.com` page to go to the parts that you are responsible for.
  
 # <a name="Interface"></a>Interface
 
@@ -63,5 +63,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mzg1NDA1MSwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbOTkxMDU0ODcwLC0xNDMzNjE2MDM0XX0=
 -->
