@@ -45,6 +45,7 @@ The UI consists of several parts that each have their own uses. I will break the
   - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
 	  - Images with no faces to identify. 
 	  - Images with very poor quality or the subject is too far away.
+	  - Images with 
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it. Some examples include:
 	  - The subject has makeup on, but you can recognize her because of her lips and nose features.
 	  - The subject is wearing sunglasses, but you can recognize his chin and smile. 
@@ -65,5 +66,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MTMwMjI1LC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbMTA1NDI2MjI3NCwtMTQzMzYxNjAzNF19
 -->
