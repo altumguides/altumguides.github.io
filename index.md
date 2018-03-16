@@ -49,6 +49,7 @@ The UI consists of several parts that each have their own uses. I will break the
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it. Some examples include:
 	  - The subject has makeup on, but you can recognize her because of her lips and nose features.
 	  - The subject is wearing sunglasses, but you can recognize his chin and smile. 
+	  - A drawing or animated image that is realistically similar to the main identity. 
 
 # <a name="Note"></a>Things to keep in mind
   - A scenario that happens frequently is that the subject will fail the condition before needing to see all the images. 
@@ -66,5 +67,6 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTEzOTU3NiwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbLTE1OTgzNTI2NzQsLTE0MzM2MTYwMzRdfQ
+==
 -->
