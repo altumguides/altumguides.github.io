@@ -43,10 +43,10 @@ The UI consists of several parts that each have their own uses. I will break the
 	  - if less than 90% of the images and more than 80% of the images shown for a celebrity subject belongs to a single face identity, then click the yellow `Good` button.
 	  - Otherwise, click the red `Bad` button.
   - You can select an image that you think is not representative of the main identity. Doing this will modify the `Percentage` information. You can use this information to help you in your objective. Images that may satisfy this condition include:
-	  - Images with more than 2 people in it.
 	  - Images with no faces to identify. 
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it.
+	  - For example, the subject has makeup, but you can recognize her because of her facial features
 
 # <a name="Note"></a>Things to keep in mind
   - A scenario that happens frequently is that the subject will fail the condition before needing to see all the images. 
@@ -64,5 +64,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NzYyMTY2LC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbMTk4MDM3ODI0NiwtMTQzMzYxNjAzNF19
 -->
