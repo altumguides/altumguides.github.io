@@ -46,7 +46,8 @@ The UI consists of several parts that each have their own uses. I will break the
 	  - Images with no faces to identify. 
 	  - Images with very poor quality or the subject is too far away.
   - Generally speaking, if you can recognize the main identity in the image then you don't want to mark it. Some examples include:
-	  - The subject has makeup, but you can recognize her because of her nose features.
+	  - The subject has makeup on, but you can recognize her because of her lips and nose features.
+	  - The subject is wearing sunglasses, but you can recognize his chin and smile. 
 
 # <a name="Note"></a>Things to keep in mind
   - A scenario that happens frequently is that the subject will fail the condition before needing to see all the images. 
@@ -64,6 +65,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY0NDg0NTEsLTE0MzM2MTYwMzRdfQ
-==
+eyJoaXN0b3J5IjpbNzU2MTMwMjI1LC0xNDMzNjE2MDM0XX0=
 -->
