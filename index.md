@@ -55,8 +55,6 @@ The UI consists of several parts that each have their own uses. I will break the
   - A scenario that happens frequently is that the subject will fail the condition before needing to see all the images. 
 	  - Going through each image carefully allows you to save time on a subject when this scenario happens. Skimming will have the opposite effect and a worse result as often times you will feel the need to look through the same set of images again and you might still miss some images that are not suppose to be in the set.
 	  - If you cannot determine the main identity of the subject from the first 10~20 pictures, then it is likely that the subject will fail before needing to verify every picture. What you can do in this case is skim through some more images to see if you still cannot identify the main identity. If so, then this subject has failed the condition. 
-  - You don't have to always mark pictures if it is easier to count and approximate the `Percentage` yourself. If you do this, make sure you are certain that the subject is a pass or a fail. 
-  - Always pay attention to the `Percentage` information if you are marking the images as there is no notification when a subject has already failed the condition based on the markings.
   - Only the response from submit buttons are recorded. You can submit multiple times. Only the last submit is recorded.
   - The website saves the progress for you provided that you are not using the browser in incognito mode or you keep your browsing data. You can close/refresh the web page to still arrive at where you left off.
   - Otherwise, remember the index number so that you can resume progress using the navigation bar.
@@ -66,5 +64,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MTk4NzEyLC0xNDMzNjE2MDM0XX0=
+eyJoaXN0b3J5IjpbMTAyNjI2NjIxMiwtMTQzMzYxNjAzNF19
 -->
