@@ -38,7 +38,7 @@ The UI consists of several parts that each have their own uses. I will break the
  7. Residing in the bottom middle of the page are the submit buttons. The green `Good` button will annotate the current subject as having sufficient distinct images, and the red `Bad` button will annotate the current subject as the opposite. 
 
 # <a name="Instruction"></a>Objective
-  - For each subject, you are to determine whether the subject falls in one of the following groups: 
+  - For each subject, you are to determine whether the **subject is asian** and falls in one of the following groups: 
 	  - If **more than 90% of the images** shown for a celebrity subject belongs to a single face identity, then click the green `Very Good` button.
 	  - If **more than 80% and less than 90% of the images** shown for a celebrity subject belongs to a single face identity, then click the yellow `Good` button.
 	  - Otherwise, click the red `Bad` button.
@@ -64,5 +64,5 @@ The UI consists of several parts that each have their own uses. I will break the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjI2NjIxMiwtMTQzMzYxNjAzNF19
+eyJoaXN0b3J5IjpbLTM0ODY2NDc0NSwtMTQzMzYxNjAzNF19
 -->
