@@ -9,11 +9,12 @@
  
  ## To view the vacation calendar
  
- 1. After accepting the calendar share from Vacation. 
+ 1. After accepting the calendar share from Vacation. You can view its calendar by clicking it under People's calendars
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3MTI5NDY1LDE4MjU2NzYyNDddfQ==
+eyJoaXN0b3J5IjpbLTE5NzkwNTEyODUsNzM3MTI5NDY1LDE4Mj
+U2NzYyNDddfQ==
 -->
