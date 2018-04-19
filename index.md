@@ -8,13 +8,15 @@
  6. Click send. Dr. Lu will receive a notification about the request. You will receive a notification after Dr. Lu has managed the request. 
  
 ## To view the vacation calendar
- 1. Go to the Calendar app on ![enter image description here](img/View.png)
+ 1. Go to your Calendar app.
+ 2. Right click People's calendars and select open calendar. 
+ 3. ![enter image description here](img/View.png)
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDExMDA4NywtODk0NTA5MzQsODkxNT
-Q5MDIwLC0xODQ4ODY4MDc2LC0xOTc5MDUxMjg1LDczNzEyOTQ2
-NSwxODI1Njc2MjQ3XX0=
+eyJoaXN0b3J5IjpbMzkzNjYxMTk4LC04OTQ1MDkzNCw4OTE1ND
+kwMjAsLTE4NDg4NjgwNzYsLTE5NzkwNTEyODUsNzM3MTI5NDY1
+LDE4MjU2NzYyNDddfQ==
 -->
