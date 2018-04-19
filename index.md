@@ -1,22 +1,22 @@
 ## Instructions for booking time off
 
  1. Open and log in to your company Outlook email account.
- 2. Create a new calendar event. ![Calendar Event](img/Step_1_2.png)
- 3. Click on the location field and click Add room. ![Add Room](img/Step_2.png)
- 4. Click All rooms and select Vacation. ![enter image description here](img/Step_3_2.png)
- 5. Add a title and choose the start and end dates. You can also add a description at the bottom. ![enter image description here](img/Step_4_2.png)
+ 2. Create a new calendar event. ![Step2](img/Step_1_2.png)
+ 3. Click on the location field and click Add room. ![Step3](img/Step_2.png)
+ 4. Click All rooms and select Vacation. ![Step4](img/Step_3_2.png)
+ 5. Add a title and choose the start and end dates. You can also add a description at the bottom. ![Step5](img/Step_4_2.png)
  6. Click send. Dr. Lu will receive a notification about the request. You will receive a notification after Dr. Lu has managed the request. 
  
 ## To view the vacation calendar
  1. Go to your Calendar app.
- 2. Right click People's calendars and select open calendar. 
- 3. ![enter image description here](img/View.png)
+ 2. Right click People's calendars and select open calendar. ![View1](img/View1.png)
+ 3. ![View2](img/View.png)
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNjYxMTk4LC04OTQ1MDkzNCw4OTE1ND
-kwMjAsLTE4NDg4NjgwNzYsLTE5NzkwNTEyODUsNzM3MTI5NDY1
-LDE4MjU2NzYyNDddfQ==
+eyJoaXN0b3J5IjpbLTIwNzUzMzAwNDksLTg5NDUwOTM0LDg5MT
+U0OTAyMCwtMTg0ODg2ODA3NiwtMTk3OTA1MTI4NSw3MzcxMjk0
+NjUsMTgyNTY3NjI0N119
 -->
