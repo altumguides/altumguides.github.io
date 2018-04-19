@@ -10,13 +10,13 @@
 ## To view the vacation calendar
  1. Go to your Calendar app.
  2. Right click People's calendars and select open calendar. ![View1](img/View1.png)
- 3. ![View2](img/View2.png)
+ 3. Type in vacation@altumview.com in the directory field or select it from the dropdown. ![View2](img/View2.png)
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDA5NTc3NywtODk0NTA5MzQsODkxNT
-Q5MDIwLC0xODQ4ODY4MDc2LC0xOTc5MDUxMjg1LDczNzEyOTQ2
-NSwxODI1Njc2MjQ3XX0=
+eyJoaXN0b3J5IjpbLTEyOTQzNTU1OTMsLTk3MDA5NTc3NywtOD
+k0NTA5MzQsODkxNTQ5MDIwLC0xODQ4ODY4MDc2LC0xOTc5MDUx
+Mjg1LDczNzEyOTQ2NSwxODI1Njc2MjQ3XX0=
 -->
