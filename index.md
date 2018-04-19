@@ -9,9 +9,11 @@
  
  ## To view the vacation calendar
  
+ 1. After accepting 
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTY3NjI0N119
+eyJoaXN0b3J5IjpbLTExNDU0MzAxMDQsMTgyNTY3NjI0N119
 -->
