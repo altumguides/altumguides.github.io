@@ -9,11 +9,11 @@
  
  ## To view the vacation calendar
  
- 1. After accepting the calendar share from Vacation. You can use the
+ 1. After accepting the calendar share from Vacation. 
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODYyODM4NiwxODI1Njc2MjQ3XX0=
+eyJoaXN0b3J5IjpbNzM3MTI5NDY1LDE4MjU2NzYyNDddfQ==
 -->
