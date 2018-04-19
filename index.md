@@ -8,7 +8,7 @@
  6. Click send. Dr. Lu will receive a notification about the request. You will receive a notification after Dr. Lu has managed the request. 
  
  
- ## To view the vacation calendar
+ # To view the vacation calendar
  
  1. After accepting the calendar share from Vacation. You can view its calendar by clicking it under People's calendars.![enter image description here](img/View.png)
 
@@ -16,6 +16,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxNTQ5MDIwLC0xODQ4ODY4MDc2LC0xOT
-c5MDUxMjg1LDczNzEyOTQ2NSwxODI1Njc2MjQ3XX0=
+eyJoaXN0b3J5IjpbMTEwNTk3NzY3Myw4OTE1NDkwMjAsLTE4ND
+g4NjgwNzYsLTE5NzkwNTEyODUsNzM3MTI5NDY1LDE4MjU2NzYy
+NDddfQ==
 -->
