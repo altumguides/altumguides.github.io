@@ -7,16 +7,14 @@
  5. Add a title and choose the start and end dates. You can also add a description at the bottom. ![enter image description here](img/Step_4_2.png)
  6. Click send. Dr. Lu will receive a notification about the request. You will receive a notification after Dr. Lu has managed the request. 
  
- 
- # To view the vacation calendar
- 
+## To view the vacation calendar
  1. After accepting the calendar share from Vacation. You can view its calendar by clicking it under People's calendars.![enter image description here](img/View.png)
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTk3NzY3Myw4OTE1NDkwMjAsLTE4ND
-g4NjgwNzYsLTE5NzkwNTEyODUsNzM3MTI5NDY1LDE4MjU2NzYy
-NDddfQ==
+eyJoaXN0b3J5IjpbLTg5NDUwOTM0LDg5MTU0OTAyMCwtMTg0OD
+g2ODA3NiwtMTk3OTA1MTI4NSw3MzcxMjk0NjUsMTgyNTY3NjI0
+N119
 -->
