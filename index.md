@@ -7,8 +7,11 @@
  5. Add a title and choose the start and end dates. You can also add a description at the bottom. ![enter image description here](img/Step_4_2.png)
  6. Click send. Dr. Lu will receive a notification about the request. You will receive a notification after Dr. Lu has managed the request. 
  
+ ## To view the vacation calendar
+ 
+ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDE1MzM2NV19
+eyJoaXN0b3J5IjpbMTgyNTY3NjI0N119
 -->
