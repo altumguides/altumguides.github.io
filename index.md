@@ -20,10 +20,10 @@ Password: 12345
 
  5. For the following fields, set them as follows:
 ```
-Firstname: your first name
-Lastname: your last name
+Firstname: Your first name
+Lastname: Your last name
 Login: This field is automatically generated
-E-mail: the email address that will receive notifications about your time off requests
+E-mail: The email address that will receive notifications about your time off requests
 Role: user 
 Contract: Normal
 Entity: Altumview.
@@ -32,7 +32,7 @@ Password: something you can remember but is not associated with your other passw
  6. Click Create user to finish this step.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Mjc5NjY0Miw3NTU3MjcwODYsLTEwNT
+eyJoaXN0b3J5IjpbLTUyNzk0MTQ0Miw3NTU3MjcwODYsLTEwNT
 IyMDQ5NDAsMTg0NzM2NjYyNCwxNTk0OTQ2MTg0LC02MDM4NzMx
 MCwtMTEyMjU3MzMxNiw1MjU4NjY2MTYsLTUzMTYxNTI4MywtNT
 EwOTQ0MjY0LC0xNTk5OTE2MDIxLDg2OTMyMzI0Nl19
