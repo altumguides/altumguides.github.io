@@ -12,10 +12,11 @@ Login: user.creator
 Password: 12345
 ```
 
- 2. Open the Admin dropdown from the top and click Create user.
+ 2. Open the Admin dropdown from the top and click Create user. ![1](img/1.png)
+ 3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzM2MzA0MiwtMTA1MjIwNDk0MCwxOD
+eyJoaXN0b3J5IjpbLTc1NDU1MzY5NiwtMTA1MjIwNDk0MCwxOD
 Q3MzY2NjI0LDE1OTQ5NDYxODQsLTYwMzg3MzEwLC0xMTIyNTcz
 MzE2LDUyNTg2NjYxNiwtNTMxNjE1MjgzLC01MTA5NDQyNjQsLT
 E1OTk5MTYwMjEsODY5MzIzMjQ2XX0=
