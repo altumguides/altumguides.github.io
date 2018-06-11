@@ -15,12 +15,11 @@ Password: 12345
  2. Open the Admin dropdown from the top and click Create user. ![1](img/1.png)
  3. Before filling in other details, click the Select button for Manager. ![1.5](img/1.5.png)
  4. Select Dr.Lu's account and click OK. ![1.7](img/1.7.png)
- 5. For Role, choose user. For contract, choose Normal. 
- 6. Fill
-
+ 5. For Role, choose user. For Contract, choose Normal. For Entity, choose Altumview. 
+ 6. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTg4NDc4OSwtMTA1MjIwNDk0MCwxOD
+eyJoaXN0b3J5IjpbLTI4MDY3ODA2NywtMTA1MjIwNDk0MCwxOD
 Q3MzY2NjI0LDE1OTQ5NDYxODQsLTYwMzg3MzEwLC0xMTIyNTcz
 MzE2LDUyNTg2NjYxNiwtNTMxNjE1MjgzLC01MTA5NDQyNjQsLT
 E1OTk5MTYwMjEsODY5MzIzMjQ2XX0=
