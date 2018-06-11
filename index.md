@@ -14,10 +14,11 @@ Password: 12345
 
  2. Open the Admin dropdown from the top and click Create user. ![1](img/1.png)
  3. Before filling in other details, click the select button for Manager. ![1.5](img/1.5.png)
+ 4. Select Dr.Lu's account and click OK. ![1.7](img/s)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MjQwMDQ3LC0xMDUyMjA0OTQwLDE4ND
-czNjY2MjQsMTU5NDk0NjE4NCwtNjAzODczMTAsLTExMjI1NzMz
-MTYsNTI1ODY2NjE2LC01MzE2MTUyODMsLTUxMDk0NDI2NCwtMT
-U5OTkxNjAyMSw4NjkzMjMyNDZdfQ==
+eyJoaXN0b3J5IjpbNzkxOTIwMjcsLTEwNTIyMDQ5NDAsMTg0Nz
+M2NjYyNCwxNTk0OTQ2MTg0LC02MDM4NzMxMCwtMTEyMjU3MzMx
+Niw1MjU4NjY2MTYsLTUzMTYxNTI4MywtNTEwOTQ0MjY0LC0xNT
+k5OTE2MDIxLDg2OTMyMzI0Nl19
 -->
