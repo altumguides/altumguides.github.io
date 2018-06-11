@@ -13,11 +13,11 @@ Password: 12345
 ```
 
  2. Open the Admin dropdown from the top and click Create user. ![1](img/1.png)
- 3. 
+ 3. Before filling in other details, click the select button for Manager. ![1.5](img/1.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDU1MzY5NiwtMTA1MjIwNDk0MCwxOD
-Q3MzY2NjI0LDE1OTQ5NDYxODQsLTYwMzg3MzEwLC0xMTIyNTcz
-MzE2LDUyNTg2NjYxNiwtNTMxNjE1MjgzLC01MTA5NDQyNjQsLT
-E1OTk5MTYwMjEsODY5MzIzMjQ2XX0=
+eyJoaXN0b3J5IjpbMzg1MjQwMDQ3LC0xMDUyMjA0OTQwLDE4ND
+czNjY2MjQsMTU5NDk0NjE4NCwtNjAzODczMTAsLTExMjI1NzMz
+MTYsNTI1ODY2NjE2LC01MzE2MTUyODMsLTUxMDk0NDI2NCwtMT
+U5OTkxNjAyMSw4NjkzMjMyNDZdfQ==
 -->
