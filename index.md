@@ -16,11 +16,11 @@ Password: 12345
  3. Before filling in other details, click the Select button for Manager. ![1.5](img/1.5.png)
  4. Select Dr.Lu's account and click OK. ![1.7](img/1.7.png)
  5. For Role, choose user. For Contract, choose Normal. For Entity, choose Altumview. 
- 6. >Important: for Password, type in a password that you can remember but is not associated with the passwords you may use for your other accounts like email. 
+ 6. >Important: The connection to this website is not encrypted, so use a password that you can remember but is not associated with your other passwords. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMTY0NiwtMTA1MjIwNDk0MCwxODQ3Mz
-Y2NjI0LDE1OTQ5NDYxODQsLTYwMzg3MzEwLC0xMTIyNTczMzE2
-LDUyNTg2NjYxNiwtNTMxNjE1MjgzLC01MTA5NDQyNjQsLTE1OT
-k5MTYwMjEsODY5MzIzMjQ2XX0=
+eyJoaXN0b3J5IjpbNzU1NzI3MDg2LC0xMDUyMjA0OTQwLDE4ND
+czNjY2MjQsMTU5NDk0NjE4NCwtNjAzODczMTAsLTExMjI1NzMz
+MTYsNTI1ODY2NjE2LC01MzE2MTUyODMsLTUxMDk0NDI2NCwtMT
+U5OTkxNjAyMSw4NjkzMjMyNDZdfQ==
 -->
