@@ -1,7 +1,7 @@
 # How to use the new leave tracker
 Follow these steps to start using the leave tracker to request time offs. The code is from an open source project so some functionalities may not feel complete. 
  1. [Set up your account](#Setup)
- 2. [Use your account to request a time off](http://example.com/)
+ 2. [Use your account to request a time off](#Request)
  3. [Navigate the calendar](http://example.com/) 
 
 ## <a name="Setup"></a> Set up your account
@@ -31,9 +31,12 @@ Password: Something that you can remember but is not associated with your other 
 ```
  6. Click Create user to finish this step. ![3](img/3.png)
 
+## <a name="Request"></a>Request a time off
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc3Nzk1MjgsNzU1NzI3MDg2LC0xMD
-UyMjA0OTQwLDE4NDczNjY2MjQsMTU5NDk0NjE4NCwtNjAzODcz
-MTAsLTExMjI1NzMzMTYsNTI1ODY2NjE2LC01MzE2MTUyODMsLT
-UxMDk0NDI2NCwtMTU5OTkxNjAyMSw4NjkzMjMyNDZdfQ==
+eyJoaXN0b3J5IjpbMTQ2Mzc1MDY5Miw3NTU3MjcwODYsLTEwNT
+IyMDQ5NDAsMTg0NzM2NjYyNCwxNTk0OTQ2MTg0LC02MDM4NzMx
+MCwtMTEyMjU3MzMxNiw1MjU4NjY2MTYsLTUzMTYxNTI4MywtNT
+EwOTQ0MjY0LC0xNTk5OTE2MDIxLDg2OTMyMzI0Nl19
 -->
