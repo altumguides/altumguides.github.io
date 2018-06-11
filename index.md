@@ -1,7 +1,8 @@
-## 
+## How to use the new leave tracker
 
- 1. [](http://example.com/ "Title")
+Follow these steps to start using the leave tracker. The leave tracker is open source so it is gimicky .
+ 1. [Set up](http://example.com/ "Title")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODM3ODMyOCw4NjkzMjMyNDZdfQ==
+eyJoaXN0b3J5IjpbMTgyNTE2MzA1Miw4NjkzMjMyNDZdfQ==
 -->
