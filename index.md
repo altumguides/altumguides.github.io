@@ -29,11 +29,11 @@ Contract: Normal
 Entity: Altumview.
 Password: Something that you can remember but is not associated with your other passwords because the connection used by this website is not encrypted. 
 ```
- 6. Click Create user to finish this step. !
+ 6. Click Create user to finish this step. ![3](img/3.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzk2Nzk2Niw3NTU3MjcwODYsLTEwNT
-IyMDQ5NDAsMTg0NzM2NjYyNCwxNTk0OTQ2MTg0LC02MDM4NzMx
-MCwtMTEyMjU3MzMxNiw1MjU4NjY2MTYsLTUzMTYxNTI4MywtNT
-EwOTQ0MjY0LC0xNTk5OTE2MDIxLDg2OTMyMzI0Nl19
+eyJoaXN0b3J5IjpbLTIxMDc3Nzk1MjgsNzU1NzI3MDg2LC0xMD
+UyMjA0OTQwLDE4NDczNjY2MjQsMTU5NDk0NjE4NCwtNjAzODcz
+MTAsLTExMjI1NzMzMTYsNTI1ODY2NjE2LC01MzE2MTUyODMsLT
+UxMDk0NDI2NCwtMTU5OTkxNjAyMSw4NjkzMjMyNDZdfQ==
 -->
