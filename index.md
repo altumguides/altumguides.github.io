@@ -12,11 +12,11 @@ Login: user.creator
 Password: 12345
 ```
 
- 2. Sign in using the 
+ 2. Open the Admin dropdown from the top and click Create user.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIyMDQ5NDAsMTg0NzM2NjYyNCwxNT
-k0OTQ2MTg0LC02MDM4NzMxMCwtMTEyMjU3MzMxNiw1MjU4NjY2
-MTYsLTUzMTYxNTI4MywtNTEwOTQ0MjY0LC0xNTk5OTE2MDIxLD
-g2OTMyMzI0Nl19
+eyJoaXN0b3J5IjpbMTE5MzM2MzA0MiwtMTA1MjIwNDk0MCwxOD
+Q3MzY2NjI0LDE1OTQ5NDYxODQsLTYwMzg3MzEwLC0xMTIyNTcz
+MzE2LDUyNTg2NjYxNiwtNTMxNjE1MjgzLC01MTA5NDQyNjQsLT
+E1OTk5MTYwMjEsODY5MzIzMjQ2XX0=
 -->
