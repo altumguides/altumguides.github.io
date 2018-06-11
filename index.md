@@ -23,12 +23,12 @@ Password: 12345
 Role: user 
 Contract: Normal
 Entity: Altumview.
-Password: something you can remember but is not associated with your other passwords because this connection is not encrypted. 
+Password: something you can remember but is not associated with your other passwords because the connection used by this website is not encrypted. 
 ```
  6. The connection to this website is not encrypted, so use a password that you can remember but is not associated with your other passwords. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDIwMTYwMyw3NTU3MjcwODYsLTEwNT
+eyJoaXN0b3J5IjpbLTQ4NzczMzIwNSw3NTU3MjcwODYsLTEwNT
 IyMDQ5NDAsMTg0NzM2NjYyNCwxNTk0OTQ2MTg0LC02MDM4NzMx
 MCwtMTEyMjU3MzMxNiw1MjU4NjY2MTYsLTUzMTYxNTI4MywtNT
 EwOTQ0MjY0LC0xNTk5OTE2MDIxLDg2OTMyMzI0Nl19
