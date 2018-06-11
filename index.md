@@ -19,13 +19,17 @@ Password: 12345
  4. Select Dr.Lu's account and click OK. ![1.7](img/1.7.png)
 
  5. For the following fields, set them as follows:
- 6. For Role, choose user. For Contract, choose Normal. For Entity, choose Altumview. 
-
- 7. The connection to this website is not encrypted, so use a password that you can remember but is not associated with your other passwords. 
+```
+Role: user 
+Contract: Normal
+Entity: Altumview.
+Password: something you can remem 
+```
+ 6. The connection to this website is not encrypted, so use a password that you can remember but is not associated with your other passwords. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2ODY4MDIzLDc1NTcyNzA4NiwtMTA1Mj
-IwNDk0MCwxODQ3MzY2NjI0LDE1OTQ5NDYxODQsLTYwMzg3MzEw
-LC0xMTIyNTczMzE2LDUyNTg2NjYxNiwtNTMxNjE1MjgzLC01MT
-A5NDQyNjQsLTE1OTk5MTYwMjEsODY5MzIzMjQ2XX0=
+eyJoaXN0b3J5IjpbNjUzMDg1MzYsNzU1NzI3MDg2LC0xMDUyMj
+A0OTQwLDE4NDczNjY2MjQsMTU5NDk0NjE4NCwtNjAzODczMTAs
+LTExMjI1NzMzMTYsNTI1ODY2NjE2LC01MzE2MTUyODMsLTUxMD
+k0NDI2NCwtMTU5OTkxNjAyMSw4NjkzMjMyNDZdfQ==
 -->
