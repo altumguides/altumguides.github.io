@@ -6,11 +6,10 @@ Follow these steps to start using the leave tracker to request time offs. The co
 
 ## <a name="Setup"></a> Set up your account
 
-
-
+ 1. Go to the leave
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI1NzMzMTYsNTI1ODY2NjE2LC01Mz
-E2MTUyODMsLTUxMDk0NDI2NCwtMTU5OTkxNjAyMSw4NjkzMjMy
-NDZdfQ==
+eyJoaXN0b3J5IjpbMjU4ODI1MTYyLC0xMTIyNTczMzE2LDUyNT
+g2NjYxNiwtNTMxNjE1MjgzLC01MTA5NDQyNjQsLTE1OTk5MTYw
+MjEsODY5MzIzMjQ2XX0=
 -->
