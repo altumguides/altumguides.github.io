@@ -4,12 +4,13 @@ Follow these steps to start using the leave tracker to request time offs. The co
  2. [Use your account to request a time off](http://example.com/)
  3. [Navigate the calendar](http://example.com/) 
 
-## Set up your account
+## <a name="Setup"></a> Set up your account
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI2NTQ4NDQsNTI1ODY2NjE2LC01Mz
+eyJoaXN0b3J5IjpbLTExMjI1NzMzMTYsNTI1ODY2NjE2LC01Mz
 E2MTUyODMsLTUxMDk0NDI2NCwtMTU5OTkxNjAyMSw4NjkzMjMy
 NDZdfQ==
 -->
