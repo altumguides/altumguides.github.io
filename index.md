@@ -1,7 +1,7 @@
 # How to use the new leave tracker
 Follow these steps to start using the leave tracker to request time offs. The code is from an open source project so some functionalities may not feel complete. 
  1. [Use your account to request a time off](#Request)
- 2. [Change your password](#pass) 
+ 2. [Change your password](#Pass) 
 
 ## <a name="Request"></a> Request a time off
 
@@ -13,11 +13,13 @@ Follow these steps to start using the leave tracker to request time offs. The co
  4. Optional: Type in a description for the time off request.
  5. Click Requested. Dr.Lu will receive a notification about the request. You will receive the notification after Dr.Lu has managed the request.
  
- ## <a name="Request"></a> Request a time off
-
+## <a name="Pass"></a> Change password
+ 1. Go to the [leave tracker website](http://leavemanager.altumview.com/jorani) and sign in.
+ 2. Click on the Lock icon at the top right.
+ 3. Type 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTIwMTk1MSwtMTc2NDE4NDA1NSwtOT
+eyJoaXN0b3J5IjpbLTM3NjIzNTcxNCwtMTc2NDE4NDA1NSwtOT
 gxNDQwMjMyLDE2MTUxMTU2NCwxNDYzNzUwNjkyLDc1NTcyNzA4
 NiwtMTA1MjIwNDk0MCwxODQ3MzY2NjI0LDE1OTQ5NDYxODQsLT
 YwMzg3MzEwLC0xMTIyNTczMzE2LDUyNTg2NjYxNiwtNTMxNjE1
