@@ -11,13 +11,13 @@ Follow these steps to start using the leave tracker to request time offs. The co
 > Note: You can ignore the about exceeding your entitled days.
 ![6](img/6.png)
  4. Optional: Type in a description for the time off request.
- 5. Click Requested. Your request will be sent to Dr.Lu for approval. You will receive an email 
+ 5. Click Requested. Dr.Lu will receive a notification about the request. You will receive the notification after Dr.Lu has managed the request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTQ0MDIzMiwxNjE1MTE1NjQsMTQ2Mz
-c1MDY5Miw3NTU3MjcwODYsLTEwNTIyMDQ5NDAsMTg0NzM2NjYy
-NCwxNTk0OTQ2MTg0LC02MDM4NzMxMCwtMTEyMjU3MzMxNiw1Mj
-U4NjY2MTYsLTUzMTYxNTI4MywtNTEwOTQ0MjY0LC0xNTk5OTE2
-MDIxLDg2OTMyMzI0Nl19
+eyJoaXN0b3J5IjpbLTE3NjQxODQwNTUsLTk4MTQ0MDIzMiwxNj
+E1MTE1NjQsMTQ2Mzc1MDY5Miw3NTU3MjcwODYsLTEwNTIyMDQ5
+NDAsMTg0NzM2NjYyNCwxNTk0OTQ2MTg0LC02MDM4NzMxMCwtMT
+EyMjU3MzMxNiw1MjU4NjY2MTYsLTUzMTYxNTI4MywtNTEwOTQ0
+MjY0LC0xNTk5OTE2MDIxLDg2OTMyMzI0Nl19
 -->
