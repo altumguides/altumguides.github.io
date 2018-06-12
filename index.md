@@ -9,12 +9,13 @@ Follow these steps to start using the leave tracker to request time offs. The co
  2. Click on New request. ![5](img/5.png)
  3. For Leave type, you can choose default. Then choose the Start and End dates. You can select Morning or Afternoon.
 > Note: You can ignore the about exceeding your entitled days.
+![6](img/6.png)
  4. Optional: Type in a description for the time off request.
- 5. Click Requested.
+ 5. Click Requested. Your request will be sent to Dr.Lu for approval. You will receive an email 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQ0OTE1NSwxNjE1MTE1NjQsMTQ2Mz
+eyJoaXN0b3J5IjpbLTk4MTQ0MDIzMiwxNjE1MTE1NjQsMTQ2Mz
 c1MDY5Miw3NTU3MjcwODYsLTEwNTIyMDQ5NDAsMTg0NzM2NjYy
 NCwxNTk0OTQ2MTg0LC02MDM4NzMxMCwtMTEyMjU3MzMxNiw1Mj
 U4NjY2MTYsLTUzMTYxNTI4MywtNTEwOTQ0MjY0LC0xNTk5OTE2
