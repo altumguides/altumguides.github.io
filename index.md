@@ -15,15 +15,15 @@ Follow these steps to start using the leave tracker to request time offs. The co
  
 ## <a name="Pass"></a> Change password
  1. Go to the [leave tracker website](http://leavemanager.altumview.com/jorani) and sign in.
- 2. Click on the Lock icon at the top right. ![
+ 2. Click on the Lock icon at the top right. ![7](img/7.png)
  3. Type in your password and Click Reset.
 > Note: Choose a password that you can remember but is not associated with your other passwords because the connection is not encrypted. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODk2MjUyMCwtMTc2NDE4NDA1NSwtOT
-gxNDQwMjMyLDE2MTUxMTU2NCwxNDYzNzUwNjkyLDc1NTcyNzA4
-NiwtMTA1MjIwNDk0MCwxODQ3MzY2NjI0LDE1OTQ5NDYxODQsLT
-YwMzg3MzEwLC0xMTIyNTczMzE2LDUyNTg2NjYxNiwtNTMxNjE1
-MjgzLC01MTA5NDQyNjQsLTE1OTk5MTYwMjEsODY5MzIzMjQ2XX
-0=
+eyJoaXN0b3J5IjpbLTEwNzk1NjcyNjEsLTE3NjQxODQwNTUsLT
+k4MTQ0MDIzMiwxNjE1MTE1NjQsMTQ2Mzc1MDY5Miw3NTU3Mjcw
+ODYsLTEwNTIyMDQ5NDAsMTg0NzM2NjYyNCwxNTk0OTQ2MTg0LC
+02MDM4NzMxMCwtMTEyMjU3MzMxNiw1MjU4NjY2MTYsLTUzMTYx
+NTI4MywtNTEwOTQ0MjY0LC0xNTk5OTE2MDIxLDg2OTMyMzI0Nl
+19
 -->
