@@ -1,7 +1,7 @@
 # How to use the new leave tracker
 Follow these steps to start using the leave tracker to request time offs. The code is from an open source project so some functionalities may not feel complete. 
  1. [Use your account to request a time off](#Request)
- 2. [Navigate the calendar](http://example.com/) 
+ 2. [Change your password](#pass) 
 
 ## <a name="Request"></a> Request a time off
 
@@ -12,13 +12,15 @@ Follow these steps to start using the leave tracker to request time offs. The co
 > Note: You can ignore the about exceeding your entitled days.
  4. Optional: Type in a description for the time off request.
  5. Click Requested. Dr.Lu will receive a notification about the request. You will receive the notification after Dr.Lu has managed the request.
+ 
+ ## <a name="Request"></a> Request a time off
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjczMjMxLC0xNzY0MTg0MDU1LC05OD
-E0NDAyMzIsMTYxNTExNTY0LDE0NjM3NTA2OTIsNzU1NzI3MDg2
-LC0xMDUyMjA0OTQwLDE4NDczNjY2MjQsMTU5NDk0NjE4NCwtNj
-AzODczMTAsLTExMjI1NzMzMTYsNTI1ODY2NjE2LC01MzE2MTUy
-ODMsLTUxMDk0NDI2NCwtMTU5OTkxNjAyMSw4NjkzMjMyNDZdfQ
-==
+eyJoaXN0b3J5IjpbMTU0NTIwMTk1MSwtMTc2NDE4NDA1NSwtOT
+gxNDQwMjMyLDE2MTUxMTU2NCwxNDYzNzUwNjkyLDc1NTcyNzA4
+NiwtMTA1MjIwNDk0MCwxODQ3MzY2NjI0LDE1OTQ5NDYxODQsLT
+YwMzg3MzEwLC0xMTIyNTczMzE2LDUyNTg2NjYxNiwtNTMxNjE1
+MjgzLC01MTA5NDQyNjQsLTE1OTk5MTYwMjEsODY5MzIzMjQ2XX
+0=
 -->
