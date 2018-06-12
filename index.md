@@ -8,16 +8,17 @@ Follow these steps to start using the leave tracker to request time offs. The co
  1. Go to the [leave tracker website](http://leavemanager.altumview.com/jorani) and sign in.
  2. Click on New request. ![5](img/5.png)
  3. For Leave type, you can choose default. Then choose the Start and End dates. You can select Morning or Afternoon.
-> Note: You can ignore the about exceeding your entitled days.
 ![6](img/6.png)
+> Note: You can ignore the about exceeding your entitled days.
  4. Optional: Type in a description for the time off request.
  5. Click Requested. Dr.Lu will receive a notification about the request. You will receive the notification after Dr.Lu has managed the request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQxODQwNTUsLTk4MTQ0MDIzMiwxNj
-E1MTE1NjQsMTQ2Mzc1MDY5Miw3NTU3MjcwODYsLTEwNTIyMDQ5
-NDAsMTg0NzM2NjYyNCwxNTk0OTQ2MTg0LC02MDM4NzMxMCwtMT
-EyMjU3MzMxNiw1MjU4NjY2MTYsLTUzMTYxNTI4MywtNTEwOTQ0
-MjY0LC0xNTk5OTE2MDIxLDg2OTMyMzI0Nl19
+eyJoaXN0b3J5IjpbLTI0MjczMjMxLC0xNzY0MTg0MDU1LC05OD
+E0NDAyMzIsMTYxNTExNTY0LDE0NjM3NTA2OTIsNzU1NzI3MDg2
+LC0xMDUyMjA0OTQwLDE4NDczNjY2MjQsMTU5NDk0NjE4NCwtNj
+AzODczMTAsLTExMjI1NzMzMTYsNTI1ODY2NjE2LC01MzE2MTUy
+ODMsLTUxMDk0NDI2NCwtMTU5OTkxNjAyMSw4NjkzMjMyNDZdfQ
+==
 -->
