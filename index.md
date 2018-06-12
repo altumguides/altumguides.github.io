@@ -5,12 +5,13 @@ Follow these steps to start using the leave tracker to request time offs. The co
 
 ## <a name="Request"></a> Request a time off
 
- 1. Go to the [leave tracker website](http://leavemanager.altumview.com/jorani) and sign in using the account that is created for yo
+ 1. Go to the [leave tracker website](http://leavemanager.altumview.com/jorani) and sign in using the account credentials that are sent to your email.
+ 2. Change your email password
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTA0NDUxMCwxNjE1MTE1NjQsMTQ2Mz
-c1MDY5Miw3NTU3MjcwODYsLTEwNTIyMDQ5NDAsMTg0NzM2NjYy
-NCwxNTk0OTQ2MTg0LC02MDM4NzMxMCwtMTEyMjU3MzMxNiw1Mj
-U4NjY2MTYsLTUzMTYxNTI4MywtNTEwOTQ0MjY0LC0xNTk5OTE2
-MDIxLDg2OTMyMzI0Nl19
+eyJoaXN0b3J5IjpbLTQwMjE4MDAzLDE2MTUxMTU2NCwxNDYzNz
+UwNjkyLDc1NTcyNzA4NiwtMTA1MjIwNDk0MCwxODQ3MzY2NjI0
+LDE1OTQ5NDYxODQsLTYwMzg3MzEwLC0xMTIyNTczMzE2LDUyNT
+g2NjYxNiwtNTMxNjE1MjgzLC01MTA5NDQyNjQsLTE1OTk5MTYw
+MjEsODY5MzIzMjQ2XX0=
 -->
