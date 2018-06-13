@@ -12,7 +12,7 @@ Follow these steps to start using the leave tracker to request time offs. The co
 > Note: You can ignore the part about exceeding your entitled days.
  4. Optional: Type in a description for the time off request.
  5. Click Requested. Dr.Lu will receive a notification about the request. You will receive the notification after Dr.Lu has managed the request.
-> Note: Sometimes the notification email does not appear immediately. Give it half a day and it will
+> Note: Sometimes the notification email does not appear immediately. Give the system a couple of hours
  
 ## <a name="Pass"></a> Change password
  1. Go to the [leave tracker website](http://leavemanager.altumview.com/jorani) and sign in.
@@ -21,11 +21,11 @@ Follow these steps to start using the leave tracker to request time offs. The co
 > Note: Choose a password that you can remember but is not associated with your other passwords because the connection is not encrypted. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg1NDkxMDgsMzEyMTU1OTEzLDU4Mz
-IwMTQwMCwtMjAxNzk2NjY5NiwtMTY0NzI0OTYwMywtMTc2NDE4
-NDA1NSwtOTgxNDQwMjMyLDE2MTUxMTU2NCwxNDYzNzUwNjkyLD
-c1NTcyNzA4NiwtMTA1MjIwNDk0MCwxODQ3MzY2NjI0LDE1OTQ5
-NDYxODQsLTYwMzg3MzEwLC0xMTIyNTczMzE2LDUyNTg2NjYxNi
-wtNTMxNjE1MjgzLC01MTA5NDQyNjQsLTE1OTk5MTYwMjEsODY5
-MzIzMjQ2XX0=
+eyJoaXN0b3J5IjpbMTgzNTkyODgyMCwzMTIxNTU5MTMsNTgzMj
+AxNDAwLC0yMDE3OTY2Njk2LC0xNjQ3MjQ5NjAzLC0xNzY0MTg0
+MDU1LC05ODE0NDAyMzIsMTYxNTExNTY0LDE0NjM3NTA2OTIsNz
+U1NzI3MDg2LC0xMDUyMjA0OTQwLDE4NDczNjY2MjQsMTU5NDk0
+NjE4NCwtNjAzODczMTAsLTExMjI1NzMzMTYsNTI1ODY2NjE2LC
+01MzE2MTUyODMsLTUxMDk0NDI2NCwtMTU5OTkxNjAyMSw4Njkz
+MjMyNDZdfQ==
 -->
